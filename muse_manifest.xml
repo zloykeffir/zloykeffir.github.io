@@ -1,0 +1,62 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zloykeffir.github.io" resolutions="1x" timestamp="1519003575292">
+  <folder name="css">
+    <file name="site_global.css" crc="4160814837"/>
+    <file name="index.css" crc="399199388" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="вставленное изображение 256x256.jpg" crc="4257325212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 128x128.jpg" crc="525561523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 148x101.jpg" crc="329739656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 156x110.jpg" crc="3936859521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 72x101.jpg" crc="516130439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 112x111.jpg" crc="4272263518" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 102x89.jpg" crc="41569113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 104x99.jpg" crc="112167331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 103x118.jpg" crc="304973699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 165x114.jpg" crc="3774966058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 139x96.jpg" crc="3921544034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 1152x276.jpg" crc="159554763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="277911874" seo="true" mt="1518980143423" redirect="true"/>
+</manifest>
